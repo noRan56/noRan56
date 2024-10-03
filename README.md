@@ -15,8 +15,8 @@
 
 ## 📩 Connect with me
 <p align="center">
-    <a href="mailto:abdelfatahdarwish13@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
-    <a href="https://www.linkedin.com/in/abdelfatahdarwish" title="LinkedIn"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
+    <a href="mailto:noran.nassef12@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
+    <a href="https://www.linkedin.com/in/noran-yasser-7a73a9215/" title="LinkedIn"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
 </p>
 
 ## 🛠 Languages and Tools
