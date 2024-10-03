@@ -7,7 +7,7 @@
 - :school: I am a Computer Science   Menofia University
 - 🌱 I’m currently studing Flutter
 - 👯 I'm looking to collaborate on flutter projects
-- 📫 How to reach me abdelfatahdarwish13@gmail.com
+- 📫 How to reach me noran.nassef12@gmail.com
 - :nerd_face: Always learning new things
 - ⚡️ Doing my best 
 
