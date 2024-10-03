@@ -4,7 +4,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;" /></a>
 </p>
 
-- :school: I am a Computer Science   Menofia University
+- :school: I am a Computer Science student at FCI at Menofia University
 - 🌱 I’m currently studing Flutter
 - 👯 I'm looking to collaborate on flutter projects
 - 📫 How to reach me noran.nassef12@gmail.com
