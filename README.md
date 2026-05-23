@@ -5,7 +5,7 @@
 </p>
 
 - :school: I am a Computer Science gradaute from FCI at Menofia University
-- 🌱 I’m currently studing Flutter
+- 🌱 I’m currently Junior Flutter Developer at 4Swapp
 - 👯 I'm looking to collaborate on flutter projects
 - 📫 How to reach me noran.nassef12@gmail.com
 - :nerd_face: Always learning new things
